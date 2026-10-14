@@ -6,8 +6,8 @@
 }
 
 body {
-    background-color: black;
-    color: white;
+    background-color: #FFD700;
+    color: #E3DAC9;
     box-sizing: border-box;
 }
 
@@ -130,9 +130,9 @@ footer {
 }
 
 /* * Media Query - Deixar a página de forma responsiva */
-@media (max-width: 1080px) {
+@media (max-width: 820px) {
     body {
-        background-color: black;
+        background-color: #FFD700;
     }
     .cabecalho {
         padding: 10px;
