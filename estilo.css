@@ -106,7 +106,7 @@ span {
 footer {
     text-align: center;
     background-color: red;
-    color: black;
+    color: #E3DAC9;
     font-family: "Montserrat", sans-serif;
     font-weight: 400;
     font-size: 0.875rem;
@@ -121,7 +121,7 @@ footer {
 }
 
 .conteudo-texto {
-    color: white;
+    color: #E3DAC9;
     font-family: "Montserrat", sans-serif;
     font-weight: 400;
     font-size: 1.125rem;
